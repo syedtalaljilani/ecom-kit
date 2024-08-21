@@ -1,0 +1,26 @@
+{
+  "name": "@jsbox/ecom-kit",
+  "version": "1.0.6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "javascript",
+    "shopping cart",
+    "jsbox",
+    "jsbox-app",
+    "e-commerce-app",
+    "jsbox-kit",
+    "jsbox-app-template",
+    "e-commerce-kit",
+    "e-commerce-app-template",
+    "jsbox-app-template-ecommerce",
+    "jsbox-kit-ecommerce",
+    "ecom-kit"
+  ],
+  "author": "JSBOX",
+  "license": "MIT",
+  "description": ""
+}
